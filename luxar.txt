@@ -1,2 +1,2 @@
-image=테스트="textures/1.png","textures/2.png"=0=0=1280=720=true
-image=테스트2="textures/1.png","textures/2.png"=0=0=1280=720=true
+image=테스트=1.png,2.png=0=0=1280=720=true
+image=테스트2=1.png,2.png=0=0=1280=720=true
